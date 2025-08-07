@@ -92,10 +92,26 @@ This dashboard delivers a comprehensive overview of Apocalypse Store's sales per
 > *Displays total Products sold by the store.*
 
 
-> ### 💼 Units of Product Sold within the Week  
+### 💼 Units of Product Sold within the Week  
 ![Products sold within the days of the week]<img width="681" height="265" alt="image" src="https://github.com/user-attachments/assets/64d655cb-990c-47ff-9757-dfeaf34511bf" />
   
 > *Displays and analyzes the number of days the store makes more sales.*
+
+
+
+### 💼 Units of Product Sold within the first Three Months  
+![Products sold within the first three months]<img width="496" height="238" alt="image" src="https://github.com/user-attachments/assets/fd2bb3a6-765a-4624-85f2-76ee30b3cc1c" />
+
+  
+> *Displays and analyzes the first three months during which the store makes more sales.*
+
+
+
+### 💼 Total Profits made from Each Customer  
+![Total Profits made from Each Customer]<img width="403" height="243" alt="image" src="https://github.com/user-attachments/assets/84f66189-5855-49d4-988c-e6fe4b35851e" />
+
+  
+> *Displays The Total Profits made from Each Customer.*
 
 ---
 
